@@ -1,1 +1,1 @@
-# Ping-pong-game
+# ピンポンゲーム
